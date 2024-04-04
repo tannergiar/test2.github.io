@@ -1,0 +1,40 @@
+
+.common{
+    /*border: 2px black solid;*/ 
+    padding: 2px;
+    margin: 2px;
+    /*background-color: azure;*/
+    position:absolute; 
+}
+.header{
+    border-bottom: 1px black solid;
+    left: 2px;
+    right:2px;
+    height:30px;
+    top:2px;
+    text-align: right;
+    background-color: lightgrey;
+}
+
+.foot{ 
+    left: 2px;
+    right:2px;
+    height:30px;
+    bottom:2px;
+    position:fixed;
+    text-align: center
+}
+.mainbody{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    left:112px;
+    right:112px;
+    top:42px;
+    bottom:42px;
+    overflow:auto;
+}
+.centered{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}

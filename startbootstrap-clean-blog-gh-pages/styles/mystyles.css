@@ -1,0 +1,188 @@
+body{
+    background-image: url(../img/backghroundtest3.jpg);
+        background-repeat:repeat;
+        background-size: 25%;
+        min-width: 1000px;
+  
+}
+.post-title{
+    font-family: 'bignooduniversal''bebasneueuniversal';
+    font-variant-caps: titling-caps;
+}
+.subheading1{
+    font-family: 'robotolightuniversal';
+    font-size: 12pt;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    letter-spacing: 5pt;
+    }
+.djtangent{
+    font-family: 'bebasneueuniversal';
+    font-weight: 500;
+    font-size: 50pt;
+    text-align: center;
+    color: white;
+}
+.post-preview > a:focus, .post-preview > a:hover {
+  text-decoration: none;
+    color: #0018aa;}
+
+.control-group{
+font-family: 'bebasneueuniversal';
+}
+.contact-today{
+    font-family: 'geosansuniversal';
+    font-size: 20pt;
+    text-align: center;
+}
+.contact-button:hover{ 
+    color: #0018aa;
+    text-align: center;
+}
+.post-subtitle{
+    color: #0018aa;
+    text-align: center;
+}
+
+.about-para{
+    font-family: 'robotolightuniversal';
+    font-size:18pt;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    min-width: 700px;
+    align-content: center;
+}
+
+.image-hover:hover{
+    width: 30%; 
+}
+.djtangent-about{
+    font-family: 'bebasneueuniversal';
+    font-weight: 500;
+    font-size: 50pt;
+    text-align: center;
+    letter-spacing: 5pt;
+    color: white;
+}
+.page-jumper{
+    font-family: 'bebasneueuniversal';
+    font-weight: 500;
+    font-size: 20pt;
+    text-align: center;
+    color: white; 
+    padding: 30px;
+}
+.page-jumper-main{
+    text-align: center;
+    background-color: 
+        rgba(150,150,150,0.8);    /* 10% opaque grey */
+    padding: 15px;
+}
+.page-jumper:hover{
+    color: #0018aa;
+    text-decoration: none;
+}
+
+.h1{
+    font-family: 'bebasneueuniversal';
+    font-weight: 600;
+    font-size: 40pt;
+    color: black;
+    padding: 50px;
+}
+.about-header{
+    font-family: 'bignooduniversal''bebasneueuniversal';
+    color: #0018aa;
+    /*letter-spacing: 5px;*/
+    font-size: 40pt;
+    background-color: 
+        rgba(200,200,200,0.4);    /* 10% opaque grey */  
+    padding:10px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.index-header{
+    font-family: 'bebasneueuniversal';
+    color: black;
+    letter-spacing: 5px;
+    font-size: 30pt;
+    font-weight: 300;
+    /*background-color: 
+        rgba(200,200,200,0.4);    /* 10% opaque grey */  
+    padding: 0px;
+    text-align: center;
+}
+.index-header:hover{
+    color: #0018aa;
+}
+@font-face {
+    font-family: 'amarillouniversal';
+    src: url('../fonts/amarillo-webfont.woff2') format('woff2'),
+         url('../fonts/amarillo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bebasneueuniversal';
+    src: url('../fonts/bebasneue-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geosansuniversal';
+    src: url('../fonts/geosanslight-webfont.woff2') format('woff2'),
+         url('../fonts/geosanslight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotolightuniversal';
+    src: url('../fonts/roboto-light-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
+@font-face {
+    font-family: 'bignooduniversal';
+    src: url('../fonts/big_noodle_titling-webfont.woff2') format('woff2'),
+         url('../fonts/big_noodle_titling-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*@font-face {
+    font-family:bebasneueuniversal;
+    src: url(../fonts/bebasneue.otf);
+}
+@font-face {
+    font-family:bignooduniversal;
+    src: url(../fonts/big_noodle_titling.ttf);
+}
+    
+@font-face {
+    font-family:helveticauniversal;
+    src: url(../fonts/helvetica.ttc);
+}   
+@font-face {
+    font-family:geosansuniversal;
+    src: url(../fonts/geosanslight.ttf);
+}*/   
+    
+    
